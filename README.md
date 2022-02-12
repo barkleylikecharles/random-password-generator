@@ -1,7 +1,8 @@
-# Password Generator 
+# Random Password Generator 
 
 ## Installation 
 Cloned code from https://github.com/coding-boot-camp/friendly-parakeet.
+Updated code can be found at https://github.com/barkleylikecharles/random-password-generator.
 
 ## Usage
 Hit button prompt to generate an 8 to 128 character randomly generated pa; with question prompts to choose the use of lower case and upper case letters, numbers and special characters defined.
@@ -11,8 +12,10 @@ Project Completed by Nicole Barkley.  GitHub Profile https://github.com/barkleyl
 
 
 ## Website
-Live at 
-View screenshot here 
+Live at https://barkleylikecharles.github.io/random-password-generator/
+
+## Screenshot 
+<img src = "assets/D57BEFCB-9B14-4739-BB6B-0543336D1095.jpeg">
 
 ## License
 MIT License
